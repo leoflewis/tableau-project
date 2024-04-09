@@ -25,7 +25,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='CarbonEmission' name='excel-direct.0h59bq707etioj1f19ekm0ct1iwr'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/fleon/source/repos/632-project/CarbonEmission.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='CarbonEmission.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.0h59bq707etioj1f19ekm0ct1iwr' name='Data' table='[Data$]' type='table'>
